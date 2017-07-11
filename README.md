@@ -13,3 +13,9 @@
 - A basic UI wireframe is [here](https://github.com/shivanshu3/webAppsAssignments/blob/master/layout.pdf)
 - The PhotoGalleryLib library is [here](https://github.com/shivanshu3/webAppsAssignments/blob/master/PhotoGalleryLib.js)
 - The documentation for that library can be found [here](https://github.com/shivanshu3/webAppsAssignments/blob/master/PhotoGalleryLib.md)
+
+## Server
+
+The HTTP server you will use in the later assignments is hosted here:
+
+http://165.227.3.253:3000/images
