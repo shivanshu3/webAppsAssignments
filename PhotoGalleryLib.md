@@ -24,9 +24,19 @@ Simply add a `<script>` tag like the following to use this in your code:
 
     This function creates a modal which can be used for presentation mode. There will be no visible effect when this function is called since the modal is closed by default. You can however inspect the DOM tree in your browser to see that a new `<div>` gets inserted into the body which has a CSS attribute `display:none`.
 
-- `PhotoGalleryLib.initModal`
+- `PhotoGalleryLib.initModal (closeBtnCb, previousBtnCb, nextBtnCb)`
 
-    foo bar
+    This function is used to register click handlers for close, previous, and next buttons in the modal. The 3 arguments of this function are callbacks which are called when close, previous, or next buttons are clicked respectively. Example usage:
+    
+    ```javascript
+    PhotoGalleryLib.initModal(function() {
+        console.log("Close button was clicked");
+    }, function() {
+        console.log("Previous button was clicked");
+    }, function() {
+        console.log("Next button was clicked");
+    });
+    ```
 
 - `PhotoGalleryLib.closePresentationModal`
 
