@@ -20,7 +20,7 @@ To help you get started, you will need to structure your project into the follow
 
 For this particular assignment, you will write some basic HTML and CSS to build the homepage for the web app. There is no JavaScript required for this assignment, so you will be penalized if you use JavaScript for this assignment.
 
-The file layout.png [TODO] provides a wireframe of what the user interface should look like. You are free to choose colours and fonts of your own choice.
+The file [layout.png](https://github.com/shivanshu3/webAppsAssignments/blob/master/layout.pdf) provides a wireframe of what the user interface should look like. You are free to choose colours and fonts of your own choice.
 
 ## Tasks
 
@@ -41,7 +41,7 @@ The file layout.png [TODO] provides a wireframe of what the user interface shoul
                     - ...
 
     - Notes:
-        - You can find all 8 images here [TODO].
+        - You can find all 8 images in the `images` folder.
         - The images will likely be too big to fit on the screen, but that's OK, since that will be fixed in the next task.
 
 2. Create a CSS stylesheet to add relevant styles that would help you design the layout for the web page. A few things to keep in mind:
