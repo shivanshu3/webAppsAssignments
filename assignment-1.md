@@ -56,6 +56,6 @@ The file layout.png [TODO] provides a wireframe of what the user interface shoul
 
 Note that you do not need to setup any server to host the webpage you are creating. Simply open the html pape with any browser, and the webpage will be displayed.
 
-## Submission instructions
+## Submission Instructions
 - For each assignment, create a branch called assignment-, for ex: assignment-1, assignment-2, etc.
 - Make sure you push your changes to that branch before midnight (11:59 PM) on the date of the assignment deadline.
