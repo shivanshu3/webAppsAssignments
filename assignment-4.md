@@ -8,7 +8,7 @@ In this assignment, you will remove the hardcoded list of images from your code,
 
 ## Tasks
 
-1. For this task, you do not need to change the code which displays images in the grid. Add code to send a GET HTTP request to [TODO] endpoint which returns a list of image URLs. Print this list of URLs to the console.
+1. For this task, you do not need to change the code which displays images in the grid. Add code to send a GET HTTP request to http://165.227.3.253:3000/images endpoint which returns a list of image URLs. Print this list of URLs to the console.
 2. For this task, you will use the list of image URLs downloaded in the previous task to display them in the grid.
 
 ## Submission Instructions
