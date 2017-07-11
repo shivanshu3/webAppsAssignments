@@ -38,17 +38,17 @@ Simply add a `<script>` tag like the following to use this in your code:
     });
     ```
 
-- `PhotoGalleryLib.closePresentationModal`
+- `PhotoGalleryLib.closePresentationModal ()`
 
-    foo bar
+    Closes the modal (hides it)
 
-- `PhotoGalleryLib.openPresentationModal`
+- `PhotoGalleryLib.openPresentationModal ()`
 
-    foo bar
+    Opens the modal (makes it visible)
     
-- `PhotoGalleryLib.setModalImgSrc`
+- `PhotoGalleryLib.setModalImgSrc (src)`
 
-    foo bar
+    Sets the `src` attribute of the image in the presentation modal to the given image URL
     
 - `PhotoGalleryLib.addImageClickHandlers`
 
