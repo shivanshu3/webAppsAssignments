@@ -50,6 +50,6 @@ Simply add a `<script>` tag like the following to use this in your code:
 
     Sets the `src` attribute of the image in the presentation modal to the given image URL
     
-- `PhotoGalleryLib.addImageClickHandlers`
+- `PhotoGalleryLib.addImageClickHandlers (callback)`
 
-    foo bar
+    This function can be used to add click handlers for the images in the grid. This function takes a callback, which is called whenever an image in the grid is clicked on. The integer index of the image is passed as an argument to the callback function.
