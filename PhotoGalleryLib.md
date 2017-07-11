@@ -20,9 +20,9 @@ Simply add a `<script>` tag like the following to use this in your code:
 
     This function is used for generating a table DOM element which can be used to display a grid of images. The `imageUrls` argument is an array of image URLs which are supposed to be displayed in the table. These can be relative URLs like './images/foo.jpg' or even http URLs. The `size` argument can be one of "small", "medium", or "large". a 1x8 grid is made for small screen sizes, a 2x4 grid is made for medium screen sizes, and a 4x2 grid is made for large screen sizes.
 
-- `PhotoGalleryLib.createModal`
+- `PhotoGalleryLib.createModal ()`
 
-    foo bar
+    This function creates a modal which can be used for presentation mode. There will be no visible effect when this function is called since the modal is closed by default. You can however inspect the DOM tree in your browser to see that a new `<div>` gets inserted into the body which has a CSS attribute `display:none`.
 
 - `PhotoGalleryLib.initModal`
 
