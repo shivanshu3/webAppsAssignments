@@ -47,7 +47,7 @@ The file [layout.png](https://github.com/shivanshu3/webAppsAssignments/blob/mast
 2. Create a CSS stylesheet to add relevant styles that would help you design the layout for the web page. A few things to keep in mind:
     - The width of the content within the website (mainBody) should be 1000px.
     - The content (mainBody) should be centered within the web page.
-    - The mainBody div should have a different background colour than the <body>, so it stands out from the rest of the web page.
+    - The mainBody div should have a different background colour than the `<body>`, so it stands out from the rest of the web page.
     - Make sure that all 8 images fit nicely inside the table. That is, they do not overflow outside the table. (Hint: You need to modify the width of the images inside the table).
     - The cursor should change to a 'hand' when hovered over the images.
     - The images should scale to 1.1 times their original size when hovered over (Hint: Look into the transform CSS property).
