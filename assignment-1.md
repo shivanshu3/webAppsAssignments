@@ -2,7 +2,9 @@
 
 ## Introduction
 
-You are going to build a photo gallery which will download a list of images from a server and display them in a dynamically resizing grid. You will be able to click on any image to enter a presentation mode, and view other images using "previous" and "next" buttons. You will also eventually implement an auto slideshow mode, where images will automatically change after a certain period of time.
+**Over the course of the whole project (over the four assignments)**, you are going to build a photo gallery which will download a list of images from a server and display them in a dynamically resizing grid. You will be able to click on any image to enter a presentation mode, and view other images using "previous" and "next" buttons. You will also eventually implement an auto slideshow mode, where images will automatically change after a certain period of time.
+
+**_Specifically, for assignment 1_, you need to the following:**:
 
 To help you get started, you will need to structure your project into the following way for the assignments. Submission instructions are given in the end of this document.
 
