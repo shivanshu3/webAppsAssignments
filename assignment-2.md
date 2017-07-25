@@ -8,7 +8,7 @@ In this assignment, you will make the web app responsive. That is, the app will 
 
 ## Tasks
 
-1. All you need to do for this task is print the size of the screen ("small", "medium", or "large") whenever it changes. (Hint: Look at PhotoGalleryLib.onSizeClassChange)
+1. All you need to do for this task is print *to the javascript browser console* the size of the screen ("small", "medium", or "large") whenever it changes. (Hint: Look at PhotoGalleryLib.onSizeClassChange)
 2. Remove the hardcoded table of images in your HTML file. We will dynamically generate it using JavaScript in this task, and add it to the DOM. Whenever the screen size changes (ex, from large to medium), the following should happen:
     - Delete the table of images from the DOM
     - Generate a new table of images for the current screen size (Hint: Look at PhotoGalleryLib.generateGrid)
