@@ -22,7 +22,7 @@ To help you get started, you will need to structure your project into the follow
 
 For this particular assignment, you will write some basic HTML and CSS to build the homepage for the web app. There is no JavaScript required for this assignment, so you will be penalized if you use JavaScript for this assignment.
 
-The file [layout.png](https://github.com/shivanshu3/webAppsAssignments/blob/master/layout.pdf) provides a wireframe of what the user interface should look like. You are free to choose colours and fonts of your own choice.
+The file [layout.png](layout.pdf) provides a wireframe of what the user interface should look like. You are free to choose colours and fonts of your own choice.
 
 ## Tasks
 
