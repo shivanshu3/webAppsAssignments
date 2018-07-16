@@ -4,11 +4,11 @@
 
 This library contains some functions which will be helpful for completing the assignments for this course. It has functions for detecting screen size changes, creating image tables of various sizes, creating modals, etc.
 
-The JavaScript file can be found [here](https://github.com/shivanshu3/webAppsAssignments/blob/master/PhotoGalleryLib.js).
+The JavaScript file can be found [here](PhotoGalleryLib.js).
 
 Simply add a `<script>` tag like the following to use this in your code:
 
-`<script src="https://raw.githubusercontent.com/shivanshu3/webAppsAssignments/master/PhotoGalleryLib.js"></script>`
+`<script src="https://raw.githubusercontent.com/juliengs/vsp2018webapp-assignments/master/PhotoGalleryLib.js"></script>`
 
 ## Functions
 
