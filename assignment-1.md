@@ -56,8 +56,8 @@ The file [layout.png](layout.pdf) provides a wireframe of what the user interfac
     - Add a shadow to the images when hovered over.
     - Make the border of the images rounded on the edges when hovered over.
 
-Note that you do not need to setup any server to host the webpage you are creating. Simply open the html pape with any browser, and the webpage will be displayed.
+Note that you do not need to setup any server to host the webpage you are creating. Simply open the html page with any browser, and the webpage will be displayed.
 
 ## Submission Instructions
-- For each assignment, create a branch called assignment-, for ex: assignment-1, assignment-2, etc.
-- Make sure you push your changes to that branch before midnight (11:59 PM) on the date of the assignment deadline.
+- For each assignment, create a branch called assignment-, for ex: assignment-1, assignment-2, etc. **For this assignment, your branch name should be assignment-1.**
+- Make sure you push your changes to that branch before midnight (11:59 PM) on the date of the assignment deadline (**July 23, 2018 11:59 PM**).
