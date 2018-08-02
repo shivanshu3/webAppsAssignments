@@ -25,6 +25,8 @@ Just to clarify, your `assignment-4` branch should look like the following:
 
 * Make sure that `/public/` directory contains **your client-side code** and not the default `index.html` included in the server side code.
 
+* Make sure you have a `.gitignore` file. The file should include `**/node_modules/**` so that you do not commit the npm modules to your repository.
+
 * If you have `git clone`d the server repository, make sure you remove the `.git/` directory.
 
 
