@@ -8,6 +8,26 @@ In this assignment, you will remove the hardcoded list of images from your code,
 
 You will need to first get the server code from [HERE](https://github.com/jungkumseok/ubc-vsp18-server/). Follow the instructions and then confirm that you can see your client application (assignment-3) at `http://localhost:3000/`.
 
+Just to clarify, your `assignment-4` branch should look like the following:
+
+```
+/public/
+    /css/
+    /js/
+    /libs/
+    /index.html
+/.gitignore
+/index.js
+/package.json
+```
+
+* `index.js` and `package.json` files are from the server code we provided.
+
+* Make sure that `/public/` directory contains **your client-side code** and not the default `index.html` included in the server side code.
+
+* If you have `git clone`d the server repository, make sure you remove the `.git/` directory.
+
+
 ## Tasks
 
 1. For this task, you do not need to change the code which displays images in the grid. Add code to send a GET HTTP request to `http://localhost:3000/images` endpoint which returns a list of image URLs. **Print this list of URLs to the console.**
