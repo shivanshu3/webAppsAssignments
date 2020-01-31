@@ -22,7 +22,7 @@ To help you get started, you will need to structure your project into the follow
 
 For this particular assignment, you will write some basic HTML and CSS to build the homepage for the web app. There is no JavaScript required for this assignment, so you will be penalized if you use JavaScript for this assignment.
 
-The file [layout.png](https://github.com/shivanshu3/webAppsAssignments/blob/master/layout.pdf) provides a wireframe of what the user interface should look like. You are free to choose colours and fonts of your own choice.
+The file [layout.png](layout.pdf) provides a wireframe of what the user interface should look like. You are free to choose colours and fonts of your own choice.
 
 ## Tasks
 
@@ -56,8 +56,8 @@ The file [layout.png](https://github.com/shivanshu3/webAppsAssignments/blob/mast
     - Add a shadow to the images when hovered over.
     - Make the border of the images rounded on the edges when hovered over.
 
-Note that you do not need to setup any server to host the webpage you are creating. Simply open the html pape with any browser, and the webpage will be displayed.
+Note that you do not need to setup any server to host the webpage you are creating. Simply open the html page with any browser, and the webpage will be displayed.
 
 ## Submission Instructions
-- For each assignment, create a branch called assignment-, for ex: assignment-1, assignment-2, etc.
-- Make sure you push your changes to that branch before midnight (11:59 PM) on the date of the assignment deadline.
+- For each assignment, create a branch called assignment-, for ex: assignment-1, assignment-2, etc. **For this assignment, your branch name should be assignment-1.**
+- Make sure you push your changes to that branch before midnight (11:59 PM) on the date of the assignment deadline (**July 23, 2018 11:59 PM**).

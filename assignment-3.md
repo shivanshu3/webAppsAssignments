@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This assignment is a continuation of Assignment 2. If you have successfully completed the previous assignment, you may use your own code, or you can use the sample solution for Assignment 2, posted [here](http://example.com), to complete this assignment.
+This assignment is a continuation of Assignment 2. If you have successfully completed the previous assignment, you may use your own code, or you can use the sample solution for Assignment 2, posted [here](http://ece.ubc.ca/~kumseok/src/vsp2018/solutions/assignment-2.zip), to complete this assignment.
 
 In this assignment, you'll implement a presentation mode. The presentation mode should be opened when you click on an image, effectively making images enlargeable. You will implement the next and previous buttons in the presentation mode to switch through various images. Finally, you'll implement an automatic slideshow, which will switch through images in the presentation mode after a  set period of time.
 
-The presentation mode will be implemented using a modal window. You will use [PhotoGalleryLib](https://github.com/shivanshu3/webAppsAssignments/blob/master/PhotoGalleryLib.js) again for this assignment. The documentation and some examples of how to use this library can be found [here](https://github.com/shivanshu3/webAppsAssignments/blob/master/PhotoGalleryLib.md).
+The presentation mode will be implemented using a modal window. You will use [PhotoGalleryLib](PhotoGalleryLib.js) again for this assignment. The documentation and some examples of how to use this library can be found [here](PhotoGalleryLib.md).
 
 ## Tasks
 
